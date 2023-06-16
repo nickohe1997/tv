@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1,A&E
-http://cdn.miptv.ws:25463/live/wzgqr/wzgrj/898.ts
+#EXTINF:0,A&E (España) (🇪🇸)
+http://45.228.232.204:16000/play/a04c/index.m3u8
